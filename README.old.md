@@ -15,3 +15,6 @@ An easier way it to use create react app: cd /code/github/enzyme-jest;npx create
   "presets": ["env","react"]
 }
 ```
+
+3. Run tests by running npm test or yarn test
+
